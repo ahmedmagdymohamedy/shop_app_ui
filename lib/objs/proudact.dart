@@ -56,7 +56,7 @@ List<Product> products = [
       color: Color(0xFFFB7883)),
   Product(
     id: 6,
-    title: "Office Code",
+    title: "Office bag",
     price: 290,
     description: dummyText,
     image: "images/bag_6.png",
